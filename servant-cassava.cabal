@@ -31,7 +31,7 @@ library
   build-depends:       base >=4.7 && <5
                      , base-compat >=0.9.1 && <0.14
                      , bytestring
-                     , cassava >=0.4.3 && <0.6
+                     , cassava >=0.4.3 && <0.7
                      , servant >=0.7 && <0.21
                      , http-media
                      , vector
